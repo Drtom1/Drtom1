@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cloud platform fundamentals
 - 👯 I’m looking to collaborate on managing and implementing IaC
 - 💬 Ask me about Devops Collabos, CI/CD, Container Orchestration
-- ⚡ Fun fact: I'm a superhero
+- ⚡ Fun fact: I live on the cloud
 -->
